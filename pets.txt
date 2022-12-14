@@ -2,3 +2,5 @@ Cow
 Buffalo
 Hen
 Cat
+Rabbit
+Fish
