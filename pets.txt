@@ -4,3 +4,5 @@ Hen
 Cat
 Rabbit
 Fish
+Frog
+Goat
